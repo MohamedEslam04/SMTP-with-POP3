@@ -65,5 +65,3 @@ This Java application implements a simple email server system, allowing users to
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the README to include additional information, such as a license, usage examples, or any other relevant details based on your project requirements.
