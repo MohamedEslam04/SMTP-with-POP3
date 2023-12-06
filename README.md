@@ -1,5 +1,3 @@
-Certainly! Below is a full README file for the provided Java code:
-
 ---
 
 # Simple Email Server
